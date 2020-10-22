@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (a4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  imagebuffer.cpp
+  Light.cpp
+  main.cpp
+  Plane.cpp
+  Program.cpp
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\imagebuffer.cpp(83,35): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\imagebuffer.cpp(83,35): warning C4244:         with
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\imagebuffer.cpp(83,35): warning C4244:         [
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\imagebuffer.cpp(83,35): warning C4244:             T=float
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\imagebuffer.cpp(83,35): warning C4244:         ]
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\Program.cpp(1127,20): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\Program.cpp(1146,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\Program.cpp(1204,20): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Shape.cpp
+  Triangle.cpp
+  Ray.cpp
+  Sphere.cpp
+  Generating Code...
+C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\a4\Program.cpp(1223,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  a4.vcxproj -> C:\Users\eddy\Desktop\GitHub\Computer-Graphics\Assignment4\Debug\Ray Tracer.exe
